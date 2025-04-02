@@ -5,9 +5,7 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "jsx": "react-native",
-    "types": [
-      "nativewind"
-    ]
+    "types": ["nativewind", "react-native", "react-native-paper"]
   },
   "include": [
     "src/**/*",
